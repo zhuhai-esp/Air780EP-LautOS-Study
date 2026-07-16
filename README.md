@@ -4,7 +4,8 @@
 
 项目目标不是只做单个 demo，而是持续沉淀一些可以直接刷入设备运行的小工具、小功能和硬件扩展示例，例如基站定位、OLED 时间显示、联网信息展示等。后续可以按功能逐步增加更多独立工程。
 
-![Air780EP LuatOS 设备](images/Air780EP_LuatOS_2410.jpg)
+<img src="images/Air780EP_LuatOS_2410.jpg" width="400" alt="Air780EP LuatOS 设备">
+<img src="images/Air780E_LuatOS_2410.jpg" width="400" alt="Air780E LuatOS 设备">
 
 ## 设备说明
 
